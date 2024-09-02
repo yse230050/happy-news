@@ -137,7 +137,7 @@
                 <img src="imgs/ylsl.jpg" alt="伊藤沙莉" class="responsive-img">
             </div>
            <div class="div-inline2">
-            <h3><a href="ye-1.html" class="ye">伊藤沙莉、NHK朝ドラ「虎に翼」17・4% 穂高も亡くなり寅子らが献杯を</a></h3>
+            <h3><a href="entame" class="ye">伊藤沙莉、NHK朝ドラ「虎に翼」17・4% 穂高も亡くなり寅子らが献杯を</a></h3>
            </div>
     </div>
     <div class="content">
@@ -146,7 +146,7 @@
                 <img src="imgs/ao.jpg" alt="" class="responsive-img">
             </div>
            <div class="div-inline2">
-            <h3><a href="ye-1.html" class="ye">早く野球がしたい”～ヤクルト 奥川恭伸</a></h3>
+            <h3><a href="sport.php" class="ye">早く野球がしたい”～ヤクルト 奥川恭伸</a></h3>
            </div>
     </div>
     <div class="content">
@@ -155,7 +155,7 @@
                 <img src="imgs/you.jpg" alt="" class="responsive-img">
             </div>
            <div class="div-inline2">
-            <h3><a href="ye-1.html" class="ye">【今週のモチベ】オープンワールドサバイバル「Once Human」や，シーシャADV「Hookah Haze」がリリースされる 2024年7月8日～7月14日</a></h3>
+            <h3><a href="game.php" class="ye">【今週のモチベ】オープンワールドサバイバル「Once Human」や，シーシャADV「Hookah Haze」がリリースされる 2024年7月8日～7月14日</a></h3>
            </div>
     </div>
     <div class="content">
@@ -164,7 +164,7 @@
                 <img src="imgs/it.jpg" alt="" class="responsive-img">
             </div>
            <div class="div-inline2">
-            <h3><a href="ye-1.html" class="ye">AIで私たちの仕事はなくなるの？　共存する新しい営業組織の姿とは</a></h3>
+            <h3><a href="IT.php" class="ye">AIで私たちの仕事はなくなるの？　共存する新しい営業組織の姿とは</a></h3>
            </div>
     </div>
     <div class="content">
@@ -173,7 +173,7 @@
                 <img src="imgs/yv.jpg" alt="" class="responsive-img">
             </div>
            <div class="div-inline2">
-            <h3><a href="ye-1.html" class="ye">初心者でも簡単に爆釣！？キスの生態</a></h3>
+            <h3><a href="turi.php" class="ye">初心者でも簡単に爆釣！？キスの生態</a></h3>
            </div>
     </div>
 <div class="footer" >
