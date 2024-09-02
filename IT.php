@@ -104,7 +104,7 @@
                 <li><a href="sport.php" class="no-underline">スポーツ</a></li>
                 <li><a href="game.php" class="no-underline">ゲーム</a></li>
                 <li><a href="IT.php" class="no-underline">IT</a></li>
-                <li><a href="turi.php" class="no-underline">釣り情報</a></li>
+                <li><a href="turi.php" class="no-underline">釣り</a></li>
             </ul>
         </nav>
         <div class="search-container">

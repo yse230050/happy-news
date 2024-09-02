@@ -29,11 +29,16 @@
     <script>
         function searchInPages(searchText) {
             var pages = [
-                { url: 'toppage.php', title: 'NEWS WEB' },
-                { url: 'category1.html', title: 'エンタメ' },
-                { url: 'category2.html', title: 'スポーツ' },
+                { url: 'toppage.php', title: 'TOP' },
+                { url: 'entame.php', title: 'エンタメ' },
+                { url: 'sports.php', title: 'スポーツ' },
                 { url: 'game.php', title: 'ゲーム' },
-                { url: 'category4.html', title: 'IT' }
+                { url: 'IT.php', title: 'IT' },
+                { url: 'turi.php', title: '釣り' },
+                { url: 'etc.php', title: 'その他' },
+                { url: 'IT.php', title: 'IT' },
+
+
             ];
 
             var results = [];
