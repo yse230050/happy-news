@@ -137,7 +137,7 @@
                 <img src="imgs/ylsl.jpg" alt="伊藤沙莉" class="responsive-img">
             </div>
            <div class="div-inline2">
-            <h3><a href="entame" class="ye">伊藤沙莉、NHK朝ドラ「虎に翼」17・4% 穂高も亡くなり寅子らが献杯を</a></h3>
+            <h3><a href="entame.php" class="ye">伊藤沙莉、NHK朝ドラ「虎に翼」17・4% 穂高も亡くなり寅子らが献杯を</a></h3>
            </div>
     </div>
     <div class="content">
