@@ -1,5 +1,6 @@
 <?php
     $title = "トップページ";
+    
 ?>
 <!DOCTYPE html>
 <html lang="en">

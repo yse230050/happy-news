@@ -133,7 +133,7 @@
         </nav>
 
         <section id="saisin.php">
-            <h2>最secti新ニュース</h2>
+            <h2>最新ニュース</h2>
             <img width="250px" src="imgs/ylsl3.png" >
             <p>ドラクエ３のHD2Dリメイクの発売日＆ドラクエ1＆2のHD2Dリメイクも決定！！</p>
         </section>
