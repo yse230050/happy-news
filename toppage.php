@@ -153,7 +153,7 @@
     <div class="content">
         <h2 >ITニュース</h2>
             <div class="div-inline1">
-            <img width="250px" src="IT_image/image (1).png" >
+            <img width="250px" src="IT_image/top.jpg" >
             </div>
            <div class="div-inline2">
             <h3><a href="IT.php" class="ye">なぜプログラミングを「開発」と呼ぶのか、他業界が感じるITプロジェクトの違和感</a></h3>

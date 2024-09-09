@@ -134,21 +134,25 @@
 
         <section id="saisin.php">
             <h2>最新ニュース</h2>
+            <img width="250px" src="imgs/ylsl3.png" >
             <p>ドラクエ３のHD2Dリメイクの発売日＆ドラクエ1＆2のHD2Dリメイクも決定！！</p>
         </section>
 
         <section id="swich.php">
             <h2>Switchニュース</h2>
+            <img width="250px" src="imgs/ylsl4.jpg" >
             <p>『逆転検事1&2 御剣セレクション』がNintendo Switchで発売</p>
         </section>
 
         <section id="PS5.php">
             <h2>PS5ニュース</h2>
+            <img width="250px" src="imgs/ylsl5.jpg" >
             <p>PS5が販売価格8万円に値上げ</p>
         </section>
 
         <section id="pC.php">
             <h2>PCゲームニュース</h2>
+            <img width="250px" src="imgs/ylsl6r.jpg" >
             <p>期待の新作「黒神話：悟空」が発売された。</p>
         </section>
     </section>
