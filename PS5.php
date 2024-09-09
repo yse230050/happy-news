@@ -98,6 +98,9 @@
         h1 a:hover{
             text-decoration: underline;
         }
+        .okey{
+            font-size: 20px;
+        }
     </style>
 </head>
 <body>
@@ -129,15 +132,17 @@
             <li><a href="saisin.php"class="no-underline">最新ニュース</a></li>
             <li><a href="swich.php"class="no-underline">Switch</a></li>
             <li><a href="PS5.php"class="no-underline">PS5</a></li>
-            <li><a href="etc.php"class="no-underline">その他</a></li>
+            <li><a href="pC.php"class="no-underline">PC</a></li>
             </ul>
         </nav>
 
         
 
         <section id="PS5.html">
-            <h2>PS5</h2>
-            <p></p>
+            <h2>PS5ニュース</h2>
+            <p class="okey">PS5が販売価格8万円に値上げ</p>
+            <p>ソニー・インタラクティブエンタテインメントは、9月2日から日本国内におけるPlayStation5の値上げに踏み切った。希望小売価格6万6980円だったものが、7万9980円となったのだ。2020年11月の発売当初の価格は5万4978円。4年ほどで2万5000円近く上昇したことになる。</p>
+        
         </section>
 
         

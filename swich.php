@@ -98,6 +98,9 @@
         h1 a:hover{
             text-decoration: underline;
         }
+        .okey{
+            font-size: 20px;
+        }
     </style>
 </head>
 <body>
@@ -128,13 +131,14 @@
             <li><a href="saisin.php"class="no-underline">最新ニュース</a></li>
             <li><a href="swich.php"class="no-underline">Switch</a></li>
             <li><a href="PS5.php"class="no-underline">PS5</a></li>
-            <li><a href="etc.php"class="no-underline">その他</a></li>
+            <li><a href="pC.php"class="no-underline">PC</a></li>
             </ul>
         </nav>
 
         <section id="swich.php">
-            <h2>Switch</h2>
-            <p></p>
+        <h2>Switchニュース</h2>
+            <p class="okey">『逆転検事1&2 御剣セレクション』がNintendo Switchで発売</p>
+            <p>「異議あり！」でおなじみの法廷バトルゲーム「逆転裁判」より、天才検事・御剣怜侍を主人公とした「逆転検事」シリーズが復活。『逆転検事1&2 御剣セレクション』が、カプコンさんよりNintendo Switchで本日発売されました。本作は、フルHDグラフィックの高解像度で蘇ったシリーズ2作品を、さまざまなスペシャルコンテンツや追加機能で隅々まで楽しめる「決定版」となっています。</p>
         </section>
 
     </section>

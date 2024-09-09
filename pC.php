@@ -98,6 +98,9 @@
         h1 a:hover{
             text-decoration: underline;
         }
+        .okey{
+            font-size: 20px;
+        }
     </style>
 </head>
 <body>
@@ -129,15 +132,16 @@
             <li><a href="saisin.php"class="no-underline">最新ニュース</a></li>
             <li><a href="swich.php"class="no-underline">Switch</a></li>
             <li><a href="PS5.php"class="no-underline">PS5</a></li>
-            <li><a href="etc.php"class="no-underline">その他</a></li>
+            <li><a href="pC.php"class="no-underline">PC</a></li>
             </ul>
         </nav>
 
        
 
         <section id="etc.HTML">
-            <h2>その他</h2>
-            <p></p>
+        <h2>PCゲームニュース</h2>
+            <p class="okey">期待の新作「黒神話：悟空」が発売された。</p>
+            <p>「黒神話：悟空」は、中国の小説「西遊記」を題材にしたアクションRPGだ。「西遊記」は日本でも「ドラゴンボール」などさまざまな作品のモチーフとなっており、親しみやすく、馴染み深い題材と言えるだろう。</p>
         </section>
     </section>
 

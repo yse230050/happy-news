@@ -128,28 +128,28 @@
             <li><a href="saisin.php"class="no-underline">最新ニュース</a></li>
             <li><a href="swich.php"class="no-underline">Switch</a></li>
             <li><a href="PS5.php"class="no-underline">PS5</a></li>
-            <li><a href="etc.php"class="no-underline">その他</a></li>
+            <li><a href="pC.php"class="no-underline">PC</a></li>
             </ul>
         </nav>
 
-        <section id="saisin.html">
+        <section id="saisin.php">
             <h2>最新ニュース</h2>
             <p>ドラクエ３のHD2Dリメイクの発売日＆ドラクエ1＆2のHD2Dリメイクも決定！！</p>
         </section>
 
-        <section id="swich.html">
-            <h2>Switch</h2>
-            <p></p>
+        <section id="swich.php">
+            <h2>Switchニュース</h2>
+            <p>『逆転検事1&2 御剣セレクション』がNintendo Switchで発売</p>
         </section>
 
-        <section id="PS5.html">
-            <h2>PS5</h2>
-            <p></p>
+        <section id="PS5.php">
+            <h2>PS5ニュース</h2>
+            <p>PS5が販売価格8万円に値上げ</p>
         </section>
 
-        <section id="etc.HTML">
-            <h2>その他</h2>
-            <p></p>
+        <section id="pC.php">
+            <h2>PCゲームニュース</h2>
+            <p>期待の新作「黒神話：悟空」が発売された。</p>
         </section>
     </section>
 

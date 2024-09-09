@@ -98,6 +98,9 @@
         h1 a:hover{
             text-decoration: underline;
         }
+        .okey{
+            font-size: 20px;
+        }
     </style>
 </head>
 <body>
@@ -129,13 +132,14 @@
             <li><a href="saisin.php"class="no-underline">最新ニュース</a></li>
             <li><a href="swich.php"class="no-underline">Switch</a></li>
             <li><a href="PS5.php"class="no-underline">PS5</a></li>
-            <li><a href="etc.php"class="no-underline">その他</a></li>
+            <li><a href="pC.php"class="no-underline">PC</a></li>
             </ul>
         </nav>
 
         <section id="saisin.html">
             <h2>最新ニュース</h2>
-            <p>ドラクエ３のHD2Dリメイクの発売日＆ドラクエ1＆2のHD2Dリメイクも決定！！</p>
+            <p class="okey">ドラクエ3のHD2Dリメイクの発売日＆ドラクエ1＆2のHD2Dリメイクも決定！！</p>
+            <p>原作となる『DQIII』が1988年にファミコンで発売されてから36年。そのあいだにもスーパーファミコンを筆頭に、プレイステーション4（PS4）やスマートフォン、Nintendo Switchなどに移植・リメイクされてきた。本作は、ドット絵と3DCGを融合させたグラフィック表現“HD-2D”を駆使した、いままでとはまったく異なる姿でリメイクされた作品となっている。</p>
         </section>
 
       
