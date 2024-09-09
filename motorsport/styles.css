@@ -1,0 +1,43 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* コンテンツを中央に配置 */
+    background-color: #f4f4f4; /* 背景色を設定（任意） */
+}
+
+.container {
+    width: 100%;
+    max-width: 800px; /* お好みで調整、コンテンツの最大幅 */
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff; /* 背景色を白に設定（任意） */
+    border-radius: 8px; /* 角を丸める（任意） */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* 影をつける（任意） */
+}
+
+.news-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.news-item h2 {
+    margin-top: 0;
+}
+
+.news-item p {
+    margin-bottom: 10px;
+}
+
+.news-item a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.news-item a:hover {
+    text-decoration: underline;
+}

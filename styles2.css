@@ -1,0 +1,78 @@
+/* リセットCSS */
+.news article {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 20px; /* 各記事の下の余白 */
+    width: 100%; /* コンテナの幅を100%に設定 */
+    max-width: 800px; /* 最大幅を設定 */
+    
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ボディスタイル */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/* ヘッダースタイル */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2em;
+}
+
+/* メインコンテンツスタイル */
+main {
+    margin-top: 20px;
+}
+
+.news {
+    display: flex; /* Flexbox を使用 */
+    flex-direction: column; /* 縦方向に配置 */
+    gap: 20px; /* 各記事の間隔 */
+}
+
+.news article h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.news article p {
+    color: #666;
+}
+
+.news article a {
+    display: block;
+    text-align: right;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.news article a:hover {
+    text-decoration: underline;
+}
+
+/* フッタースタイル */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px 0;
+    background-color: #333;
+    color: #fff;
+}
