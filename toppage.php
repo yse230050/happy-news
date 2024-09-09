@@ -103,7 +103,7 @@
         <nav>
             <ul class="horizontal-list">
                 <li><a href="toppage.php" class="no-underline1">TOP</a></li>
-                <li><a href="entame.php" class="no-underline">エンタメ</a></li>
+                <li><a href="entame2.php" class="no-underline">エンタメ</a></li>
                 <li><a href="sports.html" class="no-underline">スポーツ</a></li>
                 <li><a href="game.php" class="no-underline">ゲーム</a></li>
                 <li><a href="IT.php" class="no-underline">IT</a></li>
@@ -160,7 +160,7 @@
            </div>
     </div>
     <div class="content">
-        <h2 >釣り情報ニュース</h2>
+        <h2 >釣りニュース</h2>
             <div class="div-inline1">
             <img width="250px" src="turi_image/fish1 (1).jpg" >
             </div>
