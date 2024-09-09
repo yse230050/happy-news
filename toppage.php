@@ -129,7 +129,7 @@
                 <img width="250px" src="imgs/ylsl.jpg" >
             </div>
            <div class="div-inline2">
-            <h3><a href="entame.php" class="ye">日本テレビ系「24時間テレビ47」</a></h3>
+            <h3><a href="entame2.php" class="ye">日本テレビ系「24時間テレビ47」</a></h3>
            </div>
     </div>
     <div class="content">

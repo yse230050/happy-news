@@ -121,15 +121,15 @@
 </head>
 <body>
     <header>
-        <h2 class="gray-text">happyニュース</h2>
+        <h2 class="gray-text">happy news</h2>
         <nav>
             <ul class="horizontal-list">
-                <li><a href="toppage.php" class="no-underline1">NEWS WEB</a></li>
+                <li><a href="toppage.php" class="no-underline1">TOP</a></li>
                 <li><a href="entame2.php" class="no-underline">エンタメ</a></li>
-                <li><a href="sport.php" class="no-underline">スポーツ</a></li>
+                <li><a href="sports.html" class="no-underline">スポーツ</a></li>
                 <li><a href="game.php" class="no-underline">ゲーム</a></li>
                 <li><a href="IT.php" class="no-underline">IT</a></li>
-                <li><a href="turi.php" class="no-underline">釣り情報</a></li>
+                <li><a href="turi.php" class="no-underline">釣り</a></li>
             </ul>
         </nav>
         <div class="search-container">
