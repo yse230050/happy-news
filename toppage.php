@@ -122,55 +122,47 @@
         </div>  
     </header>
    
-    <div class="content">
-        <h2 >トップニュース</h2>
-            <div class="div-inline1">
-                <img src="imgs/zhzi.jpg" alt="">
-            </div>
-           <div class="div-inline2">
-            <h3><a href="ye-1.html" class="ye">都議補選、自民2勝6敗　萩生田氏地元で落選　裏金事件の逆風続く</a></h3>
-           </div>
-    </div>
+    
     <div class="content">
         <h2 >エンタメニュース</h2>
             <div class="div-inline1">
-                <img src="imgs/ylsl.jpg" alt="伊藤沙莉" class="responsive-img">
+                <img width="250px" src="imgs/ylsl.jpg" >
             </div>
            <div class="div-inline2">
-            <h3><a href="entame.php" class="ye">伊藤沙莉、NHK朝ドラ「虎に翼」17・4% 穂高も亡くなり寅子らが献杯を</a></h3>
+            <h3><a href="entame.php" class="ye">日本テレビ系「24時間テレビ47」</a></h3>
            </div>
     </div>
     <div class="content">
         <h2 >スポーツニュース</h2>
             <div class="div-inline1">
-                <img src="imgs/ao.jpg" alt="" class="responsive-img">
+            <img width="250px" src="imgs/ylsl2.jpg" >
             </div>
            <div class="div-inline2">
-            <h3><a href="sport.php" class="ye">早く野球がしたい”～ヤクルト 奥川恭伸</a></h3>
+            <h3><a href="sports.html" class="ye">F1イタリアGP決勝でルクレールが今季2勝目</a></h3>
            </div>
     </div>
     <div class="content">
         <h2 >ゲームニュース</h2>
             <div class="div-inline1">
-                <img src="imgs/you.jpg" alt="" class="responsive-img">
+            <img width="250px" src="imgs/ylsl3.png" >
             </div>
            <div class="div-inline2">
-            <h3><a href="game.php" class="ye">【今週のモチベ】オープンワールドサバイバル「Once Human」や，シーシャADV「Hookah Haze」がリリースされる 2024年7月8日～7月14日</a></h3>
+            <h3><a href="game.php" class="ye">ドラクエ３のHD2Dリメイクの発売日＆ドラクエ1＆2のHD2Dリメイクも決定！！</a></h3>
            </div>
     </div>
     <div class="content">
         <h2 >ITニュース</h2>
             <div class="div-inline1">
-                <img src="imgs/it.jpg" alt="" class="responsive-img">
+            <img width="250px" src="IT_image/image (1).png" >
             </div>
            <div class="div-inline2">
-            <h3><a href="IT.php" class="ye">AIで私たちの仕事はなくなるの？　共存する新しい営業組織の姿とは</a></h3>
+            <h3><a href="IT.php" class="ye">なぜプログラミングを「開発」と呼ぶのか、他業界が感じるITプロジェクトの違和感</a></h3>
            </div>
     </div>
     <div class="content">
         <h2 >釣り情報ニュース</h2>
             <div class="div-inline1">
-                <img src="imgs/yv.jpg" alt="" class="responsive-img">
+            <img width="250px" src="turi_image/fish1 (1).jpg" >
             </div>
            <div class="div-inline2">
             <h3><a href="turi.php" class="ye">初心者でも簡単に爆釣！？キスの生態</a></h3>
