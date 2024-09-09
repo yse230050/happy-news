@@ -104,7 +104,7 @@
             <ul class="horizontal-list">
                 <li><a href="toppage.php" class="no-underline1">TOP</a></li>
                 <li><a href="entame2.php" class="no-underline">エンタメ</a></li>
-                <li><a href="sports.html" class="no-underline">スポーツ</a></li>
+                <li><a href="sport.php" class="no-underline">スポーツ</a></li>
                 <li><a href="game.php" class="no-underline">ゲーム</a></li>
                 <li><a href="IT.php" class="no-underline">IT</a></li>
                 <li><a href="turi.php" class="no-underline">釣り</a></li>
@@ -138,7 +138,7 @@
             <img width="250px" src="imgs/ylsl2.jpg" >
             </div>
            <div class="div-inline2">
-            <h3><a href="sports.html" class="ye">F1イタリアGP決勝でルクレールが今季2勝目</a></h3>
+            <h3><a href="sport.php" class="ye">F1イタリアGP決勝でルクレールが今季2勝目</a></h3>
            </div>
     </div>
     <div class="content">

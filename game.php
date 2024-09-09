@@ -107,7 +107,7 @@
             <ul class="horizontal-list">
                 <li><a href="toppage.php" class="no-underline1">TOP</a></li>
                 <li><a href="entame2.php" class="no-underline">エンタメ</a></li>
-                <li><a href="sports.html" class="no-underline">スポーツ</a></li>
+                <li><a href="sport.php" class="no-underline">スポーツ</a></li>
                 <li><a href="game.php" class="no-underline">ゲーム</a></li>
                 <li><a href="IT.php" class="no-underline">IT</a></li>
                 <li><a href="turi.php" class="no-underline">釣り</a></li>
@@ -133,7 +133,7 @@
         </nav>
 
         <section id="saisin.php">
-            <h2>最新ニュース</h2>
+            <h2>最secti新ニュース</h2>
             <img width="250px" src="imgs/ylsl3.png" >
             <p>ドラクエ３のHD2Dリメイクの発売日＆ドラクエ1＆2のHD2Dリメイクも決定！！</p>
         </section>
@@ -159,7 +159,7 @@
 
     
 
-    <div class="footer">
+    
         <p>著作権情報と連絡先</p>
     </div>
 </body>
