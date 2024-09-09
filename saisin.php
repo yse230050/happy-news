@@ -1,3 +1,7 @@
+<?php
+    $title = "最新情報";
+    
+?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>

@@ -1,3 +1,7 @@
+<?php
+    $title = "スポーツ";
+    
+?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>

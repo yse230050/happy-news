@@ -1,3 +1,7 @@
+<?php
+    $title = "ゲーム";
+    
+?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>

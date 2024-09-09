@@ -1,3 +1,7 @@
+<?php
+    $title = "F1";
+    
+?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>

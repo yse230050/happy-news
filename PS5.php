@@ -1,3 +1,7 @@
+<?php
+    $title = "PS5";
+    
+?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>

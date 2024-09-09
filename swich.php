@@ -1,3 +1,7 @@
+<?php
+    $title = "Switch";
+    
+?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>

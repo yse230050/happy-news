@@ -1,3 +1,7 @@
+<?php
+    $title = "釣り";
+    
+?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>
