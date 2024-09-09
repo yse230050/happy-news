@@ -110,6 +110,15 @@
                 <li><a href="turi.php" class="no-underline">釣り</a></li>
             </ul>
         </nav>
+        <h1>情報技術に関する情報</h1>
+        <nav>
+            <ul>
+                <li><a href="#what-is-it">情報技術とは？</a></li>
+                <li><a href="#importance">情報技術の重要性</a></li>
+                <li><a href="#future">業界の未来</a></li>
+                <li><a href="#unity3d">Unity 3Dの最新ニュース</a></li>
+            </ul>
+        </nav>
         <div class="search-container">
             <form action="/search" method="get">
                 <input class="search-box" type="search" name="q" size="40" placeholder="ニュースを検索">
